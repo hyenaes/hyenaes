@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @hyenaes
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning PHP/laravel
+- 🌱 I’m currently flutter
+- A flutter developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me whatapp 07085498040| twitter @femtom2
 
